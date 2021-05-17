@@ -1,4 +1,4 @@
-# Game-Software-Projects
+# Game-Software
 ## Games that were added too and created over a semester of software engineering
 - Each folder contains a version of the game player with updated features and games
 
