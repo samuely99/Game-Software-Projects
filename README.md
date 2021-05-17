@@ -33,4 +33,6 @@
 
 - ### Mines
   - Players take turns selecting spaces trying to avoid the mines
+  - Playes may select up to two spaces before the turn changes
+  - The player can also select just one space and end their turn
   - Player to not select a mine wins
