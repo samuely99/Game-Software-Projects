@@ -91,7 +91,7 @@ public class Mines extends Application implements Serializable{
         }
 
         else if(boxValue.equals("X")){
-          pane.setStyle("-fx-base: #FFFF00;");
+          pane.setStyle("-fx-base: #FFFFFF;");
           mineActivation(pane, j, i);
         }
 
